@@ -1,0 +1,12 @@
+{
+    "browsers": "chrome",
+    "src": ["src/reactapp/tests/**/*.ts"],
+    "assertionTimeout": 7000,
+    "selectorTimeout": 5000,
+    "speed": 0.9,
+    "screenshots": {
+      "path": "./screenshots/",
+      "takeOnFails": true
+    }
+  }
+  

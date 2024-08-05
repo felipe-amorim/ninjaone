@@ -1,0 +1,13 @@
+{
+  "name": "ninjaone_felipe",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "ninjaone/reactapp/tests/CheckDevices.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "testcafe": "^3.6.2",
+    "typescript": "^5.5.4"
+  }
+}

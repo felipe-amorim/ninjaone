@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+#evidences
+/screenshots
+
+# misc
+.DS_Store
+npm-debug.log*
